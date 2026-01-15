@@ -2,7 +2,7 @@
 
 ---
 
-# 📘 **Customer Churn Prediction Notebook**
+# 📘 **Customer Churn Prediction **
 
 This repository contains a **Jupyter Notebook** project that builds a **Customer Churn Prediction System** using the **Telco Customer Churn Dataset**. The focus is on visual exploration, explainability, and comparison of baseline vs production-grade ML pipelines.
 
